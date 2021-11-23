@@ -1,6 +1,6 @@
 # reovirus_induced_myocarditis
 
-Title: Spatiotemporal transcriptomics reveals a dynamic and complex network of cellular phenotypes associated with viral myocarditis.
+Title: Time-course single-cell and spatial transcriptomics of reovirus-induced myocarditis in neonatal mice.
 
 Author: Madhav Mantri (mm2937@cornell.edu)
 
@@ -8,6 +8,10 @@ Citation: <<>>
 
 DOI: <<>>
 
-Description: Here, we used integrated single-cell and spatially-resolved transcriptomics to study the spatiotemporal heterogeneity of innate and adaptive immune responses and cell-cell interactions in reovirus-infected murine hearts. This repository contains spatial RNAseq imagin data, code scripts, and all the meta data required to analyse time course scRNA-seq and spatial RNAseq data of reovirus infected murine hearts. The raw sequencing data and processed count matrices needed for this analysis have been deposited in NCBI's Gene Expression Omnibus and are accessible through GEO Series accession number GSEXXXXXXX.
+Summary: A significant fraction of sudden death in young adults is due to myocarditis, an inflammatory disease of the heart, most often caused by viral infection. Here we used single-cell and spatially resolved RNA sequencing (RNA-seq) to study the cellular and spatial  heterogeneity of myocarditic processes in the hearts of reovirus-infected neonatal mice at multiple predetermined time points after initial infection at the primary site of infection. We further applied these technologies to study the innate response to reovirus infection in the intestine. In addition, we performed time-dependent single-cell RNA-seq (scRNA-seq) of cardiac tissues of mice infected with a reovirus point mutant that does not cause myocarditis. To establish viral tropism, we implemented molecular enrichment of non-polyadenylated viral transcripts that were otherwise poorly represented in the transcriptomes. Our measurements give insight into the cardiac cell-type specificity of innate immune responses, into the tropism of the virus in the intestine and the heart, and into the transcriptional states of cell types involved in the production of inflammatory cytokines and the recruitment of circulating immune cells. Analyses of spatially restricted gene expression in myocarditic regions and the border zone around those regions identified injury and stress responses in different cell types, including cardiomyocytes. Overall, our data identify spatially restricted cellular interactions and cell-type specific host responses during reovirus-induced myocarditis. 
 
 ![alt text](https://github.com/madhavmantri/reovirus_induced_myocarditis/blob/main/readme_images/flowchart.png)
+
+Contents: This repository contains visium slide and capture area informaiton for spatial RNAseq experiments, H&E images and tissue-spot alignment files for spatial RNAseq expeirments, scRNAseq and spatial RNAseq processed scanpy objects with metadata, and scRNAseq and spatial RNAseq analysis scripts required to reproduce the results from our analysis. 
+
+Raw data: The raw sequencing data and processed count matrices for this study have been deposited in NCBI's Gene Expression Omnibus and are accessible through GEO Series accession number GSEXXXXXXX.
