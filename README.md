@@ -12,7 +12,6 @@
 
 ![alt text](https://github.com/madhavmantri/reovirus_induced_myocarditis/blob/main/readme_images/flowchart.png)
 
-**Contents:** This repository contains visium slide and capture area informaiton for spatial RNAseq experiments, H&E images and tissue-spot alignment files for spatial RNAseq expeirments, scRNAseq and spatial RNAseq processed scanpy objects with metadata, and scRNAseq and spatial RNAseq analysis scripts required to reproduce the results from our analysis. 
-
 **Raw data:** The raw sequencing data and processed count matrices for this study have been deposited in NCBI's Gene Expression Omnibus and are accessible through GEO Series accession number GSEXXXXXXX.
 
+**Contents:** This repository contains visium slide and capture area informaiton for spatial RNAseq experiments, H&E images and tissue-spot alignment files for spatial RNAseq expeirments, scRNAseq and spatial RNAseq processed scanpy objects with metadata, and scRNAseq and spatial RNAseq analysis scripts required to reproduce the results from our analysis. 
