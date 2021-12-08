@@ -12,6 +12,6 @@
 
 ![alt text](https://github.com/madhavmantri/reovirus_induced_myocarditis/blob/main/readme_images/flowchart.png)
 
-**Raw data:** The raw sequencing data and processed count matrices for this study have been deposited in NCBI's Gene Expression Omnibus and are accessible through GEO Series accession number GSE189636. Raw and processed H&E-stained tissue images and tissue-spot alignment files matched to spatial RNA-seq datasets have been made publicly available on figshare with identifier https://doi.org/10.6084/m9.figshare.c.5726372.v2. 
+**Raw data:** The raw sequencing data and processed count matrices for this study have been deposited in NCBI's Gene Expression Omnibus and are accessible through GEO Series accession number GSE189636. Raw and processed H&E-stained tissue images, tissue-spot alignment files matched to spatial RNA-seq datasets, and reovirus reference genome and anotations used in the study have been made publicly available on figshare with identifier https://doi.org/10.6084/m9.figshare.c.5726372. The visium slide numbers and capture area details have been shared in the methods section of the manuscript. 
 
-**Contents:** This repository contains visium slide capture area informaiton for spatial RNAseq experiments, and scripts required to reproduce the analysis presented in our study.
+**Contents:** This repository contains visium slide capture area informaiton for spatial RNAseq experiments, and scripts/ notebooks required to reproduce the analysis presented in our study.
